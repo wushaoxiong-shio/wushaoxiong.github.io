@@ -1,7 +1,7 @@
-title: ArthurChiao's Blog
-description: ArthurChiao's Blog
+title: wushaoxiong's Blog
+description: wushaoxiong's Blog
 
-url: https://arthurchiao.github.io
+url: https://wushaoxiong.github.io
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -25,10 +25,8 @@ navigation:
    url: /donate
 
 social:
-   github: ArthurChiao
-   linkedin: in/yanan-zhao-7691317b?trk=hp-identity-photo
-   facebook: profile.php?id=100014334455077
-   email: arthurchiao@hotmail.com
+   github: wushaoxiong
+   email: wushaoxiong.shio@gmail.com
 
 defaults:
   -
@@ -38,7 +36,7 @@ defaults:
     values:
       comments: false
 
-google_analytics: "G-5SFP2TKSL7"
+google_analytics: ""
 
 # development configurations
 host: 0.0.0.0
